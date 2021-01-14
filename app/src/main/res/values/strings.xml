@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NikoNotesMVP</string>
+    <string name="hint_input_title">Masukkan Judul Catatan</string>
+    <string name="hint_input_message">Masukkan Catatan Anda</string>
+    <string name="action_add_notes">Tambah Catatan</string>
+    <string name="label_loading">Loading...</string>
+</resources>
